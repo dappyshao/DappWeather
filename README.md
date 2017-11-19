@@ -2,6 +2,7 @@ Weather App using React, Redux and Express.
 
 - clone it to your directory
 - change directory to which you cloned repository
+- write "npm install"
 - write "npm start"
 
 
